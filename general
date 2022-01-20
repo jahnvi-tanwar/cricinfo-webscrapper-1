@@ -1,0 +1,16 @@
+//npm list
+
+// npm init -y
+// npm install minimist
+// npm install axios
+// npm install jsdom 
+// npm install excel4node
+// npm install pdf-lib
+
+// node main --source=? --excel=worldcup.csv --dataFolder=worldcupData
+
+//read command line args using minimist
+//download using axios
+//read using jsdom
+//make excel using excel4node
+//make pdf using pdf-lib
